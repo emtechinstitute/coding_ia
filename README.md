@@ -1,6 +1,6 @@
 # Repositorio del curso Coding with IA
 
-Este repositorio contiene ejemplos de código y recursos para los participantes del curso "Desarrollo de Aplicaciones con Inteligencia Artificial". Aquí encontrarás ejemplos prácticos que abarcan desde la creación de APIs backend hasta la integración de tecnologías de IA en aplicaciones móviles y web.
+Este repositorio contiene ejemplos de código y recursos para los participantes del curso Coding with IA de Emtech. Aquí encontrarás ejemplos prácticos que abarcan desde la creación de APIs backend hasta la integración de tecnologías de IA en aplicaciones móviles y web.
 
 ## Estructura del Repositorio
 
