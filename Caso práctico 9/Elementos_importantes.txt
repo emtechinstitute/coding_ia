@@ -1,0 +1,14 @@
+Para configurar el entorno de pruebas, recuerda que deberías contar con las herramientas como:
+
+Bandit: Una herramienta para encontrar problemas de seguridad comunes en el código Python
+# pip install bandit
+
+
+Ejemplo de uso de Bandit para análisis de código Python:
+# bandit -r path/to/your/code
+
+
+Pruebas de seguridad para OWASP Top Ten:
+Puedes usar Copilot para obtener ideas sobre cómo escribir pruebas para cada categoría del OWASP Top Ten. Por ejemplo, para probar inyección SQL, podrías escribir un comentario como:
+
+# Test for SQL injection vulnerabilities on user login
